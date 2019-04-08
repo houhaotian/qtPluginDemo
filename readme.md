@@ -1,0 +1,3 @@
+MyApp是调用插件的地方。
+
+TestLib.pro项目是开发插件的demo
